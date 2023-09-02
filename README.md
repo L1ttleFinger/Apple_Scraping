@@ -41,3 +41,5 @@ To recover the measure's names and filters you want to apply to your data before
 FYI, you will find in the payload the "measures" you want to recover and the "dimensionFilters" if you applied any filter. The "optionKeys" will be the values that you assigned to these filters.
 
 The reason I am calling my measures separately (using a for loop) in the notebook is because I had trouble fetching more than 2 measures at once.
+
+Thank you for your interest in this tiny project!
