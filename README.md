@@ -43,5 +43,3 @@ FYI, you will find in the payload the "measures" you want to recover and the "di
 The reason I am calling my measures separately (using a for loop) in the notebook is because I had trouble fetching more than 2 measures at once.
 
 Thank you for your interest in this tiny project!
-
-Test change
